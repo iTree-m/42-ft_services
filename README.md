@@ -1,6 +1,6 @@
 # 42-ft_services
-A System Administration and Networking project.
-The purpose of this project is to use Kubernetes to virtualize a network and set a production environment.
+- *A System Administration and Networking project.*
+- *The purpose of this project is to use Kubernetes to virtualize a network and set a production environment.*
 ## Components
 - Alpine Linux
 - Kubernetes
